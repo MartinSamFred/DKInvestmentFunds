@@ -1,0 +1,175 @@
+fund_name,isin,currency,category,dividend,ann_cost,rating_class,risk_class,sustainablity_class,3y_ann_perf,5y_ann_perf,AUM_DKK,sharpe_ratio,provider,asset_class,geography
+BankInvest Bæredygtige Klimaaktier A,DK0062265153,DKK,"Sektor - Miljø & Klima, Aktier",Distributing,1.73,,4,Article 9,,,56.0,,BankInvest,Stocks,Global
+BankInvest Bæredygtige Klimaaktier Akk A,DK0062265310,DKK,"Sektor - Miljø & Klima, Aktier",Accumulating,1.73,,4,Article 9,,,35.0,,BankInvest,Stocks,Global
+BankInvest Bæredygtige Klimaobl A,DK0062265666,DKK,Obligationer - EUR Virksomheder,Distributing,0.98,,2,Article 9,,,829.0,,BankInvest,Bonds,Europe
+BankInvest Bæredygtige Klimaobl Akk. A,DK0062265823,DKK,Obligationer - EUR Virksomheder,Accumulating,0.98,,2,Article 9,,,475.0,,BankInvest,Bonds,Europe
+BankInvest Børsnot Alt Akk. A,DK0061925484,DKK,Alternative - Øvrige,Accumulating,2.09,,4,Article 8,,,959.0,,BankInvest,Alt.,Other
+BankInvest Danske Aktier A,DK0016060346,DKK,Aktier - Danmark,Distributing,1.56,3.0,4,Article 8,-16.62,32.16,6700.0,0.5,BankInvest,Stocks,Denmark
+BankInvest Danske Aktier Akk. A,DK0060622967,DKK,Aktier - Danmark,Accumulating,1.54,4.0,4,Article 8,1.57,77.61,4880.0,0.58,BankInvest,Stocks,Denmark
+BankInvest EM Korte Obl A,DK0061540937,DKK,Obligationer - Øvrige,Distributing,0.98,,2,Article 8,4.05,,1171.0,-0.33,BankInvest,Bonds,Other
+BankInvest EM Korte Obligationer Akk. A,DK0062500682,DKK,Obligationer - Øvrige,Accumulating,0.96,,2,Article 8,,,688.0,,BankInvest,Bonds,Other
+BankInvest EM Obl Lokalvaluta A,DK0060012037,DKK,Obligationer - Nye Markeder Lokalvaluta,Distributing,1.22,3.0,3,Article 8,6.67,-9.87,1670.0,-0.19,BankInvest,Bonds,EmergingMarkets
+BankInvest EM Obligationer A,DK0016112832,DKK,Obligationer - Nye Markeder EUR Fokus,Distributing,1.19,4.0,3,Article 8,-5.76,-9.96,3473.0,-0.15,BankInvest,Bonds,EmergingMarkets
+BankInvest EM Obligationer Akk. A,DK0060019552,DKK,Obligationer - Nye Markeder EUR Fokus,Accumulating,1.22,4.0,3,Article 8,-6.35,-1.27,909.0,-0.16,BankInvest,Bonds,EmergingMarkets
+BankInvest Emerging Markets Aktier A,DK0060516854,DKK,Aktier - Globale Nye Markeder,Distributing,1.71,2.0,4,Article 8,-10.7,1.25,1808.0,0.01,BankInvest,Stocks,EmergingMarkets
+BankInvest Emerging Markets Aktier Akk A,DK0062502621,DKK,Aktier - Globale Nye Markeder,Accumulating,1.77,,4,Article 8,,,406.0,,BankInvest,Stocks,EmergingMarkets
+BankInvest GloAkColum Threadneedle Akk A,DK0061410057,DKK,Aktier - Globale Large Cap Growth,Accumulating,1.7,4.0,4,Article 8,18.92,,3485.0,0.23,BankInvest,Stocks,Global
+BankInvest Glob Akt Ansvarlig Udv Akk A,DK0061271699,DKK,Aktier - Globale Large Cap Blend,Accumulating,1.66,3.0,4,Article 8,20.67,,4372.0,0.32,BankInvest,Stocks,Global
+BankInvest Glob Obl Ansvarlig Udv A,DK0061295870,DKK,Obligationer - Globale Fleksibel EUR Valutasikret,Distributing,0.79,2.0,2,Article 8,-4.95,,1322.0,-0.65,BankInvest,Bonds,Global
+BankInvest Glob Obl Ansvarlig Udv Akk A,DK0061296175,DKK,Obligationer - Globale Fleksibel EUR Valutasikret,Distributing,0.87,2.0,2,Article 8,-4.9,,1086.0,-0.67,BankInvest,Bonds,Global
+BankInvest GlobAkColumbia Threadneedle A,DK0061409711,DKK,Aktier - Globale Large Cap Growth,Distributing,1.7,4.0,4,Article 8,13.49,,4591.0,0.23,BankInvest,Stocks,Global
+BankInvest Globale Akt Ansvarlig Udvik A,DK0061271426,DKK,Aktier - Globale Large Cap Blend,Distributing,1.67,3.0,4,Article 8,2.8,,7528.0,0.31,BankInvest,Stocks,Global
+BankInvest Højt Udbytte Aktier A,DK0060293538,DKK,Aktier - Globale Højt Udbytte,Distributing,1.66,4.0,4,Article 8,-13.52,1.73,7370.0,0.51,BankInvest,Stocks,Global
+BankInvest Højt Udbytte Aktier Akk. A,DK0061151362,DKK,Aktier - Globale Højt Udbytte,Accumulating,1.7,4.0,4,Article 8,20.2,,1219.0,0.4,BankInvest,Stocks,Global
+BankInvest Korte Danske Obl Akk. A,DK0060130318,DKK,Obligationer - DKK Korte Indenlandske,Accumulating,0.27,3.0,2,Article 8,2.63,1.81,532.0,-0.45,BankInvest,Bonds,Denmark
+BankInvest Korte Danske Obligationer A,DK0016109614,DKK,Obligationer - DKK Korte Indenlandske,Distributing,0.22,4.0,2,Article 8,1.91,0.07,2792.0,-0.55,BankInvest,Bonds,Denmark
+BankInvest Korte HY Obl Royal London A,DK0061066255,DKK,Obligationer - Øvrige,Distributing,0.89,,2,Article 8,4.85,0.54,3460.0,-0.01,BankInvest,Bonds,Other
+BankInvest Lange Danske Obl. Akk. A,DK0061151016,DKK,Obligationer - DKK Indenlandske,Accumulating,0.52,3.0,2,Article 8,-5.49,,2819.0,-0.65,BankInvest,Bonds,Denmark
+BankInvest Lange Danske Obligationer A,DK0016109531,DKK,Obligationer - DKK Indenlandske,Distributing,0.46,3.0,2,Article 8,-6.03,-12.33,9914.0,-0.57,BankInvest,Bonds,Denmark
+BankInvest Mellemlange Danske Obl. A,DK0015908719,DKK,Obligationer - DKK Indenlandske,Distributing,0.48,4.0,2,Article 8,-1.57,,2614.0,-0.58,BankInvest,Bonds,Denmark
+BankInvest Mellemlange DK Obl Akk. A,DK0062500849,DKK,Obligationer - DKK Indenlandske,Accumulating,0.49,,2,Article 8,,,90.0,,BankInvest,Bonds,Denmark
+BankInvest Optima 10 Akk. KL,DK0060335552,DKK,Balanceret - EUR Lav Risiko Global,Accumulating,0.92,3.0,2,Article 8,0.93,6.09,302.0,-0.03,BankInvest,Mixed,Europe
+BankInvest Optima 10 KL,DK0060762540,DKK,Balanceret - EUR Lav Risiko Global,Distributing,0.88,3.0,2,Article 8,-2.84,-0.2,994.0,-0.02,BankInvest,Mixed,Europe
+BankInvest Optima 30 Akk. KL,DK0060745966,DKK,Balanceret - EUR Lav Risiko Global,Accumulating,1.16,5.0,3,Article 8,3.49,15.77,916.0,0.21,BankInvest,Mixed,Europe
+BankInvest Optima 30 KL,DK0060762623,DKK,Balanceret - EUR Lav Risiko Global,Distributing,1.14,5.0,3,Article 8,-1.23,7.51,3377.0,0.22,BankInvest,Mixed,Europe
+BankInvest Optima 55 Akk. KL,DK0060335636,DKK,Balanceret - EUR Moderat Risiko Global,Accumulating,1.39,4.0,3,Article 8,7.14,27.28,1860.0,0.34,BankInvest,Mixed,Europe
+BankInvest Optima 55 KL,DK0060762706,DKK,Balanceret - EUR Moderat Risiko Global,Distributing,1.37,4.0,3,Article 8,0.26,14.89,3306.0,0.35,BankInvest,Mixed,Europe
+BankInvest Optima 75 Akk. KL,DK0060089092,DKK,Balanceret - EUR Høj Risiko Global,Accumulating,1.53,3.0,4,Article 8,11.0,38.79,1103.0,0.41,BankInvest,Mixed,Europe
+BankInvest Optima 75 KL,DK0060762896,DKK,Balanceret - EUR Høj Risiko Global,Distributing,1.52,4.0,4,Article 8,0.46,19.44,1296.0,0.43,BankInvest,Mixed,Europe
+BankInvest Optima Aktier Akk. KL,DK0061152410,DKK,Aktier - Globale Large Cap Blend,Accumulating,1.73,2.0,4,Article 8,,,441.0,0.59,BankInvest,Stocks,Global
+BankInvest Optima Aktier KL,DK0061533569,DKK,Aktier - Globale Large Cap Blend,Distributing,1.85,2.0,4,Article 8,,,144.0,0.13,BankInvest,Stocks,Global
+BankInvest Optima Rente A,DK0061272747,DKK,Obligationer - DKK Øvrige,Distributing,0.6,4.0,2,Article 8,-3.02,,1145.0,-0.54,BankInvest,Bonds, DKK Øvrige
+BankInvest Optima Rente Akk. A,DK0061272903,DKK,Obligationer - DKK Øvrige,Accumulating,0.63,4.0,2,Article 8,-1.55,,854.0,-0.54,BankInvest,Bonds, DKK Øvrige
+BankInvest Value Globale Aktier A,DK0060978716,DKK,Aktier - Globale Large Cap Value,Distributing,1.6,1.0,4,Article 8,-10.51,-7.37,329.0,0.11,BankInvest,Stocks,Global
+BankInvest Virk.obl HY Jyske Capital A,DK0060461424,DKK,Obligationer - Globale Højrente EUR Valutasikret,Distributing,1.27,4.0,3,Article 8,3.07,11.57,3932.0,0.16,BankInvest,Bonds,Global
+BankInvest Virksomhedsobl IG Akk. A,DK0060019636,DKK,Obligationer - EUR Virksomheder,Accumulating,1.02,3.0,2,Article 8,-3.84,-2.61,872.0,-0.28,BankInvest,Bonds,Europe
+BankInvest Virksomhedsobligationer IG A,DK0010296813,DKK,Obligationer - EUR Virksomheder,Distributing,0.93,3.0,2,Article 8,-7.23,-8.24,6468.0,-0.28,BankInvest,Bonds,Europe
+Danske Inv Danmark - Akk kl DKK,DK0016208515,DKK,Aktier - Danmark,Accumulating,1.28,3.0,4,Article 8,2.11,64.36,1848.0,0.09,DanskeInvest,Stocks,Denmark
+Danske Inv Danmark Fokus kl DKK d,DK0060244325,DKK,Aktier - Danmark,Distributing,1.38,3.0,4,Article 8,-26.62,2.91,3804.0,0.13,DanskeInvest,Stocks,Denmark
+Danske Inv Danmark Indeks kl DKK d,DK0010266238,DKK,Aktier - Danmark,Distributing,0.28,3.0,4,Article 8,-24.41,5.12,2770.0,-0.02,DanskeInvest,Stocks,Denmark
+"Danske Inv Danmark, klasse DKK d",DK0010252873,DKK,Aktier - Danmark,Distributing,1.28,3.0,4,Article 8,-33.7,-11.34,1162.0,0.09,DanskeInvest,Stocks,Denmark
+Danske Inv Dannebr Mellemla. Obl kl DKKd,DK0010078070,DKK,Obligationer - DKK Øvrige,Distributing,0.43,3.0,2,Article 8,-7.01,-12.73,5155.0,-0.58,DanskeInvest,Bonds, DKK Øvrige
+Danske Inv Danske Korte Obl kl DKK d,DK0016290422,DKK,Obligationer - DKK Korte,Distributing,0.24,3.0,2,Article 8,-2.09,-5.04,2150.0,-0.47,DanskeInvest,Bonds,Denmark
+Danske Inv Danske Lange Obl kl DKKd,DK0016105380,DKK,Obligationer - DKK Øvrige,Distributing,0.48,1.0,2,Article 8,-10.84,-18.11,1559.0,-0.64,DanskeInvest,Bonds, DKK Øvrige
+Danske Inv Euro Inv Grade-Obl kl DKKdh,DK0060448751,DKK,Obligationer - EUR Virksomheder,Distributing,0.71,3.0,2,Article 8,-6.87,-8.98,5120.0,-0.59,DanskeInvest,Bonds,Europe
+Danske Inv Europa Akk kl DKKh,DK0016290265,DKK,Aktier - Øvrige,Accumulating,1.42,,4,Article 8,7.02,40.83,554.0,0.2,DanskeInvest,Stocks,Other
+Danske Inv Europa Højt Udb Akk kl DKK,DK0060058618,DKK,Aktier - Europa Højt Udbytte,Accumulating,1.53,4.0,4,Article 8,21.25,39.64,612.0,0.53,DanskeInvest,Stocks,Europe
+Danske Inv Europa Højt Udbytte kl DKK d,DK0016253651,DKK,Aktier - Europa Højt Udbytte,Distributing,1.53,4.0,4,Article 8,-3.7,2.34,883.0,0.53,DanskeInvest,Stocks,Europe
+"Danske Inv Europa Indeks BNP, kl DKK d",DK0015737563,DKK,Aktier - Europa Large Cap Blend,Distributing,0.35,3.0,4,Article 8,17.52,43.56,335.0,0.46,DanskeInvest,Stocks,Europe
+"Danske Inv Europa Indeks, klasse DKK d",DK0010266311,DKK,Aktier - Europa Large Cap Blend,Distributing,0.35,4.0,4,Article 8,0.79,19.85,1956.0,0.42,DanskeInvest,Stocks,Europe
+Danske Inv Europa Small Cap Akk kl DKK,DK0060640191,DKK,Aktier - Europa Small Cap,Accumulating,1.49,3.0,4,Article 8,-22.95,30.21,148.0,-0.47,DanskeInvest,Stocks,Europe
+Danske Inv Europa Small Cap kl DKK d,DK0060046019,DKK,Aktier - Europa Small Cap,Distributing,1.49,4.0,4,Article 8,-43.93,-20.49,829.0,-0.47,DanskeInvest,Stocks,Europe
+"Danske Inv Europa, klasse DKKd",DK0010252956,DKK,Aktier - Europa Large Cap Blend,Distributing,1.42,4.0,4,Article 8,-5.44,8.11,610.0,0.24,DanskeInvest,Stocks,Europe
+"Danske Inv Fjernøsten Indeks, kl DKK d",DK0010207141,DKK,Aktier - Asien ex. Japan,Distributing,0.5,4.0,4,Article 8,-4.54,12.97,669.0,-0.05,DanskeInvest,Stocks,Asia
+"Danske Inv Fonde, kl DKK d",DK0015989610,DKK,Obligationer - DKK Korte Indenlandske,Distributing,0.48,1.0,2,Article 8,-14.87,-18.55,1182.0,,DanskeInvest,Bonds,Denmark
+"Danske Inv Glo High Yield-Obl, kl DKKdh",DK0060448918,DKK,Obligationer - Globale Højrente EUR Valutasikret,Distributing,1.1,3.0,3,Article 8,-1.14,-0.6,738.0,-0.32,DanskeInvest,Bonds,Global
+"Danske Inv Glo Lange Indeksobl, kl DKKdh",DK0060187771,DKK,Obligationer - Globale Indeks EUR Valutasikret,Distributing,0.69,3.0,3,Article 8,-18.02,-17.9,796.0,-0.87,DanskeInvest,Bonds,Global
+"Danske Inv Glob Indeks - Akk, kl DKK h",DK0016248222,DKK,Aktier - Øvrige,Accumulating,0.4,,4,Article 8,16.47,66.32,5987.0,0.34,DanskeInvest,Stocks,Other
+"Danske Inv Global Indeks, kl DKK d",DK0010263052,DKK,Aktier - Globale Large Cap Blend,Distributing,0.4,4.0,4,Article 8,11.61,45.73,22275.0,0.56,DanskeInvest,Stocks,Global
+Danske Inv Globale Obligationsmark KL,DK0016255193,DKK,Obligationer - Globale Fleksibel EUR Valutasikret,Distributing,0.9,3.0,2,Article 8,-6.06,-8.14,474.0,,DanskeInvest,Bonds,Global
+"Danske Inv Globale Virk obl, kl DKK d h",DK0016075294,DKK,Obligationer - EUR Virksomheder,Distributing,0.79,3.0,2,Article 8,-7.86,-9.89,518.0,-0.61,DanskeInvest,Bonds,Europe
+Danske Inv GloLangeIndeksobl Akk kl DKKh,DK0060140705,DKK,Obligationer - Globale Indeks EUR Valutasikret,Accumulating,0.69,3.0,3,Article 8,-18.19,-9.69,143.0,-0.87,DanskeInvest,Bonds,Global
+Danske Inv GloMellemlang IndObl kl DKKdh,DK0060550523,DKK,Obligationer - Globale Indeks EUR Valutasikret,Distributing,0.69,4.0,2,Article 8,-3.49,4.02,4940.0,-0.48,DanskeInvest,Bonds,Global
+"Danske Inv Japan, kl DKKd",DK0015971675,DKK,Aktier - Japan Large Cap,Distributing,1.47,4.0,4,Article 8,-5.65,-4.54,666.0,0.58,DanskeInvest,Stocks,Asia
+"Danske Inv Kina, kl DKK d",DK0010295336,DKK,Aktier - Kina,Distributing,1.59,3.0,5,Article 8,-36.87,-23.96,210.0,-0.39,DanskeInvest,Stocks,Asia
+"Danske Inv Mix Obl Akk, kl DKK h",DK0060010924,DKK,Obligationer - DKK Øvrige,Accumulating,0.72,4.0,2,Article 8,-3.45,-4.17,470.0,,DanskeInvest,Bonds, DKK Øvrige
+Danske Inv Mix Obligationer KL,DK0060430627,DKK,Obligationer - DKK Øvrige,Distributing,0.72,3.0,2,Article 8,-5.43,-6.75,4344.0,,DanskeInvest,Bonds, DKK Øvrige
+Danske Inv Nordiske Virk.obl Akk KL,DK0060500502,DKK,Obligationer - EUR Virksomheder,Accumulating,0.8,5.0,2,Article 8,2.58,5.3,3085.0,-0.37,DanskeInvest,Bonds,Europe
+"Danske Inv Nye Mark Obl LokVal, kl DKKd",DK0060073252,DKK,Obligationer - Nye Markeder Lokalvaluta,Distributing,1.14,2.0,3,Article 8,2.62,-6.45,3728.7,-0.11,DanskeInvest,Bonds,EmergingMarkets
+"Danske Inv Nye Mark Obl, kl DKK d h",DK0016209323,DKK,Obligationer - Nye Markeder EUR Fokus,Distributing,1.09,4.0,3,Article 8,-8.79,-14.31,2921.0,-0.41,DanskeInvest,Bonds,EmergingMarkets
+"Danske Inv Nye Markeder - Akk, kl DKK",DK0060042026,DKK,Aktier - Globale Nye Markeder,Accumulating,1.61,3.0,4,Article 8,-5.56,17.14,2190.0,-0.19,DanskeInvest,Stocks,EmergingMarkets
+"Danske Inv Nye Markeder, kl DKK d",DK0015710602,DKK,Aktier - Globale Nye Markeder,Distributing,1.61,3.0,4,Article 8,-13.69,-9.2,4971.0,-0.19,DanskeInvest,Stocks,EmergingMarkets
+Danske Inv NyeMarkedOblLokVal Akk kl DKK,DK0060548899,DKK,Obligationer - Nye Markeder Lokalvaluta,Accumulating,1.14,2.0,3,Article 8,4.7,-1.6,109.0,-0.09,DanskeInvest,Bonds,EmergingMarkets
+Danske Inv Select GloSust Future 3 DKK d,DK0060244408,DKK,Aktier - Globale Large Cap Blend,Distributing,1.46,4.0,4,Article 9,-6.86,11.2,835.0,0.48,DanskeInvest,Stocks,Global
+Danske Invest Euro HY Obl kl DKK d h,DK0060486843,DKK,Obligationer - EUR Højrente,Distributing,1.03,2.0,3,Article 8,-4.68,-2.86,614.0,-0.46,DanskeInvest,Bonds,Europe
+Danske Invest Euro HY-Obl - Akk kl DKK h,DK0060497378,DKK,Obligationer - EUR Højrente,Accumulating,1.03,2.0,3,Article 8,-1.15,6.39,1243.0,-0.38,DanskeInvest,Bonds,Europe
+Danske Invest Europa 2 KL,DK0010245901,DKK,Aktier - Europa Large Cap Blend,Distributing,1.42,3.0,4,Article 8,-7.89,21.94,211.0,0.26,DanskeInvest,Stocks,Europe
+Danske Invest Mix Akkumulerende,DK0060010841,DKK,Balanceret - EUR Lav Risiko,Accumulating,1.12,4.0,3,Article 8,0.9,10.51,2524.0,,DanskeInvest,Mixed,Europe
+Danske Invest Mix Defensiv Akk,DK0060228633,DKK,Balanceret - EUR Lav Risiko,Accumulating,0.98,4.0,2,Article 8,0.51,6.42,1047.0,,DanskeInvest,Mixed,Europe
+Danske Invest Mix Offensiv Akk,DK0060228716,DKK,Balanceret - EUR Moderat Risiko Global,Accumulating,1.22,4.0,3,Article 8,3.05,16.68,1632.0,,DanskeInvest,Mixed,Europe
+Danske Invest Mix Offensiv Plus Akk,DK0060228989,DKK,Balanceret - EUR Moderat Risiko Global,Accumulating,1.36,5.0,3,Article 8,8.45,33.06,1261.0,,DanskeInvest,Mixed,Europe
+Danske Invest Nye Markeder 2,DK0060080380,DKK,Aktier - Globale Nye Markeder Small/Mid Cap,Distributing,1.61,3.0,4,Article 8,2.87,39.92,163.0,0.2,DanskeInvest,Stocks,EmergingMarkets
+Danske Invest USA Indeks - Akk kl DKK h,DK0016290349,DKK,Aktier - Øvrige,Accumulating,0.35,,5,Article 8,15.01,56.44,1483.0,0.3,DanskeInvest,Stocks,Other
+"Danske Invest USA Indeks, klasse DKK d",DK0010257757,DKK,Aktier - USA Large Cap Blend,Distributing,0.35,2.0,5,Article 8,18.29,45.02,1316.0,0.61,DanskeInvest,Stocks,US
+Nykredit Invest Balance Defensiv KL,DK0016188733,DKK,Balanceret - EUR Lav Risiko Global,Accumulating,1.22,4.0,3,Article 8,-0.92,8.51,1600.0,-0.21,NykreditInvest,Mixed,Europe
+Nykredit Invest Balance Moderat KL,DK0016188816,DKK,Balanceret - EUR Moderat Risiko Global,Accumulating,1.46,4.0,3,Article 8,3.85,26.48,2161.0,0.03,NykreditInvest,Mixed,Europe
+Nykredit Invest Balance Offensiv KL,DK0060441749,DKK,Balanceret - EUR Høj Risiko Global,Accumulating,1.63,4.0,4,Article 8,7.02,39.07,723.0,0.14,NykreditInvest,Mixed,Europe
+Nykredit Invest Bæredygtige Aktier,DK0060361046,DKK,Aktier - Globale Large Cap Blend,Distributing,1.37,4.0,4,Article 9,4.45,53.55,5180.0,0.43,NykreditInvest,Stocks,Global
+Nykredit Invest Bæredygtige Kreditobl,DK0060356392,DKK,Obligationer - EUR Virksomheder,Distributing,0.95,3.0,2,Article 8,-5.35,-9.4,166.0,-0.57,NykreditInvest,Bonds,Europe
+Nykredit Invest Danske Aktier,DK0010297118,DKK,Aktier - Danmark,Distributing,1.24,4.0,4,Article 8,-23.4,12.09,1092.0,0.08,NykreditInvest,Stocks,Denmark
+Nykredit Invest Danske Aktier Akk.,DK0060034270,DKK,Aktier - Danmark,Accumulating,1.21,4.0,4,Article 8,3.94,71.23,2085.0,0.09,NykreditInvest,Stocks,Denmark
+Nykredit Invest Danske Fokusaktier,DK0060231777,DKK,Aktier - Danmark,Distributing,1.47,4.0,4,Article 8,-22.7,9.78,786.0,0.07,NykreditInvest,Stocks,Denmark
+Nykredit Invest Globale Fokusaktier,DK0060360824,DKK,Aktier - Globale Large Cap Blend,Distributing,1.37,5.0,4,Article 8,11.63,36.49,3951.0,0.54,NykreditInvest,Stocks,Global
+Nykredit Invest Globale Fokusaktier Akk.,DK0060038347,DKK,Aktier - Globale Large Cap Blend,Accumulating,1.35,5.0,4,Article 8,23.69,81.45,6955.0,0.54,NykreditInvest,Stocks,Global
+Nykredit Invest Kreditobligationer,DK0060356202,DKK,Obligationer - EUR Fleksibel,Distributing,0.75,2.0,2,Article 8,,,1270.0,-0.65,NykreditInvest,Bonds,Europe
+Nykredit Invest Lange obligationer,DK0060009405,DKK,Obligationer - DKK Øvrige,Distributing,0.39,1.0,3,Article 8,-15.06,-19.71,6370.0,-0.51,NykreditInvest,Bonds, DKK Øvrige
+Nykredit Invest Lange Obligationer Akk.,DK0060034007,DKK,Obligationer - DKK Øvrige,Accumulating,0.38,2.0,3,Article 8,-7.31,-9.9,6227.0,-0.5,NykreditInvest,Bonds, DKK Øvrige
+Sparindex INDEX Bæredygtige Europa KL,DK0060748044,DKK,Aktier - Europa Large Cap Blend,Distributing,0.4,3.0,4,Article 9,2.83,,725.0,0.28,SparInvest,Stocks,Europe
+Sparindex INDEX Bæredygtige Global KL,DK0060747905,DKK,Aktier - Globale Large Cap Blend,Distributing,0.5,3.0,4,Article 9,5.96,36.18,154.0,0.36,SparInvest,Stocks,Global
+Sparindex INDEX Bæredygtige Japan KL,DK0010297977,DKK,Aktier - Japan Large Cap,Distributing,0.5,3.0,4,Article 9,-38.92,-34.59,363.0,,SparInvest,Stocks,Asia
+Sparindex INDEX Bæredygtige USA KL,DK0060748200,DKK,Aktier - USA Large Cap Blend,Distributing,0.5,2.0,5,Article 9,14.62,,797.0,0.45,SparInvest,Stocks,US
+Sparindex INDEX DJSI World KL,DK0010297464,DKK,Aktier - Globale Large Cap Blend,Distributing,0.5,4.0,4,Article 8,3.29,33.94,4643.0,0.63,SparInvest,Stocks,Global
+Sparindex INDEX Em MarkBo Lokva Akk KL A,DK0060254126,DKK,Obligationer - Nye Markeder EUR Fokus,Accumulating,0.6,4.0,3,Article 8,1.19,-0.13,1272.0,,SparInvest,Bonds,EmergingMarkets
+Sparindex INDEX Em Market Bo Lokalvaluta,DK0060254043,DKK,Obligationer - Nye Markeder EUR Fokus,Distributing,0.6,4.0,3,Article 8,,,386.0,,SparInvest,Bonds,EmergingMarkets
+Sparindex INDEX EM Market Bonds Akk KL A,DK0062729596,DKK,Obligationer - Nye Markeder,Accumulating,0.5,,3,Article 8,,,641.0,,SparInvest,Bonds,EmergingMarkets
+Sparindex INDEX Emerging Market Bonds,DK0062729406,DKK,Obligationer - Nye Markeder,Distributing,0.5,,3,Article 8,,,378.0,,SparInvest,Bonds,EmergingMarkets
+Sparindex INDEX Emerging Markets KL,DK0060300762,DKK,Aktier - Globale Nye Markeder,Distributing,0.5,4.0,4,Article 8,-3.66,12.5,1324.0,0.08,SparInvest,Stocks,EmergingMarkets
+Sparindex INDEX Europa Growth KL,DK0010297548,DKK,Aktier - Europa Large Cap Growth,Distributing,0.4,4.0,4,Article 8,-17.06,9.18,166.0,0.18,SparInvest,Stocks,Europe
+Sparindex INDEX Europa Small Cap KL,DK0010297621,DKK,Aktier - Europa Small Cap,Distributing,0.4,3.0,4,Article 8,-21.58,-0.32,181.0,-0.08,SparInvest,Stocks,Europe
+Sparindex INDEX Europa Value KL,DK0010297704,DKK,Aktier - Europa Large Cap Value,Distributing,0.4,3.0,4,Article 8,22.04,33.79,780.0,0.63,SparInvest,Stocks,Europe
+Sparindex INDEX Glob Akt Min. Ris Akk KL,DK0060748127,DKK,Aktier - Globale Large Cap Blend,Accumulating,0.5,2.0,4,Article 8,19.88,33.79,1504.0,0.56,SparInvest,Stocks,Global
+Sparindex INDEX Globale Akt Min Risk KL,DK0060031847,DKK,Aktier - Globale Large Cap Blend,Distributing,0.5,3.0,4,Article 8,-7.37,-3.84,3541.0,0.58,SparInvest,Stocks,Global
+Sparindex INDEX Globale Aktier KL,DK0060747822,DKK,Aktier - Globale Large Cap Blend,Distributing,0.5,4.0,4,Article 8,14.81,43.29,5461.0,0.49,SparInvest,Stocks,Global
+Sparindex INDEX Høj Risiko KL,DK0060748713,DKK,Balanceret - EUR Høj Risiko Global,Distributing,0.69,3.0,4,Article 8,-1.61,11.95,237.0,0.18,SparInvest,Mixed,Europe
+Sparindex INDEX Lav Risiko KL,DK0060748556,DKK,Balanceret - EUR Lav Risiko Global,Distributing,0.55,4.0,3,Article 8,0.83,2.78,216.0,-0.21,SparInvest,Mixed,Europe
+Sparindex INDEX Mellem Risiko KL,DK0060748630,DKK,Balanceret - EUR Moderat Risiko Global,Distributing,0.62,3.0,3,Article 8,0.04,6.43,446.0,-0.01,SparInvest,Mixed,Europe
+Sparindex INDEX OMX C25 KL,DK0060442556,DKK,Aktier - Danmark,Distributing,0.3,3.0,4,Article 8,-20.81,30.42,4302.0,0.03,SparInvest,Stocks,Denmark
+Sparindex INDEX Stabile Obl. KL A,DK0060057487,DKK,Obligationer - DKK Korte Indenlandske,Distributing,0.19,2.0,2,Article 8,-0.43,-1.92,2526.0,-0.73,SparInvest,Bonds,Denmark
+Sparindex INDEX USA Growth KL,DK0010298272,DKK,Aktier - USA Large Cap Growth,Distributing,0.5,4.0,5,Article 8,-13.64,38.52,5801.0,0.46,SparInvest,Stocks,US
+Sparindex INDEX USA Small Cap KL,DK0010298355,DKK,Aktier - USA Small Cap,Distributing,0.5,3.0,5,Article 8,-29.9,-12.9,508.0,0.16,SparInvest,Stocks,US
+Sparindex INDEX USA Value KL,DK0010298439,DKK,Aktier - USA Large Cap Value,Distributing,0.5,3.0,5,Article 8,-1.91,7.53,560.0,0.59,SparInvest,Stocks,US
+Sparinv Danske Aktier KL A,DK0010068006,DKK,Aktier - Danmark,Distributing,1.41,3.0,4,Article 8,-14.02,20.2,436.0,0.08,SparInvest,Stocks,Denmark
+Sparinv Korte Obligationer KL A,DK0060105203,DKK,Obligationer - DKK Korte Indenlandske,Distributing,0.24,2.0,2,Article 8,1.62,-0.04,1358.0,-0.57,SparInvest,Bonds,Denmark
+Sparinv Lange Obligationer KL A,DK0060105393,DKK,Obligationer - DKK Indenlandske,Distributing,0.44,2.0,2,Article 8,-5.96,-14.05,380.0,-0.55,SparInvest,Bonds,Denmark
+Sparinv Mellemlange Obligationer KL A,DK0060105476,DKK,Obligationer - DKK Indenlandske,Distributing,0.38,3.0,2,Article 8,-3.16,-8.97,1442.0,-0.58,SparInvest,Bonds,Denmark
+Sparinv Mix Høj Risiko KL A,DK0060623346,DKK,Balanceret - EUR Moderat Risiko Global,Distributing,1.56,4.0,3,Article 8,-1.34,12.58,645.0,0.22,SparInvest,Mixed,Europe
+Sparinv Mix Lav Risiko KL A,DK0060623189,DKK,Balanceret - EUR Lav Risiko Global,Distributing,1.01,4.0,2,Article 8,-3.96,-1.01,2292.0,-0.08,SparInvest,Mixed,Europe
+Sparinv Mix Mellem Risiko KL A,DK0060623262,DKK,Balanceret - EUR Moderat Risiko Global,Distributing,1.32,3.0,3,Article 8,-5.37,1.83,2255.0,0.11,SparInvest,Mixed,Europe
+Sparinv Nye Obligationsmarkeder KL A,DK0016030786,DKK,Obligationer - Nye Markeder EUR Fokus,Distributing,1.15,3.0,3,Article 8,-9.65,-12.81,444.0,-0.51,SparInvest,Bonds,EmergingMarkets
+Sparinv SICAV - Balance DKK R,LU0673458609,DKK,Balanceret - EUR Moderat Risiko Global,Accumulating,1.38,3.0,3,Article 8,5.49,17.27,275.0,0.07,SparInvest,Mixed,Europe
+Sparinv SICAV - Balance EUR R,LU0650088072,EUR,Balanceret - EUR Moderat Risiko Global,Accumulating,1.38,3.0,3,Article 8,,,22.0,0.08,SparInvest,Mixed,Europe
+Sparinv SICAV - Procedo DKK R,LU0686499277,DKK,Balanceret - EUR Høj Risiko Global,Accumulating,1.59,3.0,3,Article 8,8.26,24.45,180.0,0.18,SparInvest,Mixed,Europe
+Sparinv SICAV - Securus DKK R,LU0686498972,DKK,Balanceret - EUR Lav Risiko Global,Accumulating,1.07,4.0,2,Article 8,3.57,8.8,211.0,-0.07,SparInvest,Mixed,Europe
+Sparinv Value Aktier KL A,DK0010079631,DKK,Aktier - Globale Large Cap Value,Distributing,1.86,3.0,4,Article 8,3.28,16.43,4042.0,0.42,SparInvest,Stocks,Global
+Sparinv Value Emerging Markets KL A,DK0010304856,DKK,Aktier - Globale Nye Markeder,Distributing,1.09,4.0,4,Article 8,-0.89,14.99,157.0,0.23,SparInvest,Stocks,EmergingMarkets
+Sparinv Value Europa KL A,DK0060032571,DKK,Aktier - Europa Fleksibel Cap,Distributing,1.86,3.0,4,Article 8,0.38,21.18,357.0,0.26,SparInvest,Stocks,Europe
+Sparinv Virksomhedsobligationer HY KortA,DK0060530764,DKK,Obligationer - Globale Højrente EUR Valutasikret,Distributing,0.85,4.0,2,Article 8,0.19,-1.29,894.0,0.08,SparInvest,Bonds,Global
+Sparinvest Bæredygtige Aktier Akk. KL A,DK0060012896,DKK,Aktier - Globale Fleksibel Cap,Accumulating,1.71,4.0,4,Article 9,15.66,56.24,200.0,,SparInvest,Stocks,Global
+Sparinvest Bæredygtige Aktier KL A,DK0061294048,DKK,Aktier - Globale Large Cap Blend,Distributing,1.7,3.0,4,Article 9,11.38,,581.0,0.41,SparInvest,Stocks,Global
+Sparinvest Bæredygtige Virk.obl IG KL A,DK0060444255,DKK,Obligationer - EUR Virksomheder,Distributing,0.93,4.0,2,Article 8,-0.49,-1.22,269.0,-0.51,SparInvest,Bonds,Europe
+Sparinvest Mix Aktier KL A,DK0010014778,DKK,Aktier - Globale Large Cap Blend,Distributing,1.81,3.0,4,Article 8,-19.04,-8.55,203.0,0.54,SparInvest,Stocks,Global
+Sparinvest SICAV Glob Conver Bonds EUR R,LU1438960566,EUR,Konvertible Obligationer - Globale EUR Valutasikret,Accumulating,1.53,4.0,3,Article 8,-10.73,19.42,171.0,-0.59,SparInvest,Bonds,Global
+Sparinvest SICAV Sust CorpBonds IG EUR R,LU0264925727,EUR,Obligationer - Globale Virksomheder EUR Valutasikret,Accumulating,0.88,3.0,2,Article 8,-7.67,-2.64,104.0,-0.66,SparInvest,Bonds,Global
+Sparinvest Virksomhedsobl HY KL A,DK0060819324,DKK,Obligationer - Globale Højrente EUR Valutasikret,Distributing,1.35,4.0,2,Article 8,-1.15,-4.23,242.0,-0.02,SparInvest,Bonds,Global
+Sydinvest Fjernøsten A DKK,DK0010169549,DKK,Aktier - Asien ex. Japan,Distributing,1.54,3.0,4,Article 8,-28.4,-11.52,586.0,-0.35,SydInvest,Stocks,Asia
+Sydinvest Fjernøsten A DKK Akk,DK0060036994,DKK,Aktier - Asien ex. Japan,Accumulating,1.57,3.0,4,Article 8,-8.64,34.55,282.0,-0.35,SydInvest,Stocks,Asia
+Sydinvest Formue Obligationer A DKK,DK0061806981,DKK,Obligationer - Globale Virksomheder EUR Valutasikret,Distributing,0.71,,2,Article 8,,,132.0,,SydInvest,Bonds,Global
+Sydinvest Global Value A DKK,DK0010101740,DKK,Aktier - Globale Large Cap Value,Distributing,1.39,3.0,4,Article 8,8.35,23.54,242.0,0.48,SydInvest,Stocks,Global
+Sydinvest Global Value A DKK Akk,DK0060669091,DKK,Aktier - Globale Large Cap Value,Accumulating,1.37,2.0,4,Article 8,22.36,47.41,109.0,0.48,SydInvest,Stocks,Global
+Sydinvest Globale EM-aktier A DKK,DK0060499663,DKK,Aktier - Globale Nye Markeder,Distributing,1.55,4.0,4,Article 8,-24.7,-11.45,407.0,-0.24,SydInvest,Stocks,EmergingMarkets
+Sydinvest Globale EM-aktier A DKK Akk,DK0060499747,DKK,Aktier - Globale Nye Markeder,Accumulating,1.54,4.0,4,Article 8,-3.82,20.9,218.0,-0.23,SydInvest,Stocks,EmergingMarkets
+Sydinvest HøjrenteLande A DKK,DK0016231921,DKK,Obligationer - Nye Markeder EUR Fokus,Distributing,1.22,4.0,3,Article 8,-9.09,-18.15,1405.0,-0.47,SydInvest,Bonds,EmergingMarkets
+Sydinvest Indeks Danmark A DKK,DK0061541232,DKK,Aktier - Danmark,Distributing,0.3,2.0,4,Article 6,-5.73,,300.0,-0.06,SydInvest,Stocks,Denmark
+Sydinvest Indeks Glob Akt Lav Risiko KL,DK0061281490,DKK,Aktier - Globale Large Cap Blend,Distributing,0.5,3.0,4,Article 6,6.44,,427.0,0.44,SydInvest,Stocks,Global
+Sydinvest Indeks Morningstar Leaders KL,DK0061111572,DKK,Aktier - Globale Large Cap Blend,Distributing,0.5,5.0,4,Article 8,15.46,74.83,2133.0,0.55,SydInvest,Stocks,Global
+Sydinvest Indeks Tyskland A DKK,DK0060033116,DKK,Aktier - Tyskland,Distributing,1.48,3.0,5,Article 8,-19.51,-11.73,240.0,-0.16,SydInvest,Stocks,Europe
+Sydinvest Korte Obligationer A DKK,DK0015916225,DKK,Obligationer - DKK Korte Indenlandske,Distributing,0.24,5.0,2,Article 8,-0.22,-1.53,1519.0,-0.61,SydInvest,Bonds,Denmark
+Sydinvest Kvalitetsaktier A DKK,DK0061533643,DKK,Aktier - Globale Large Cap Blend,Distributing,1.4,3.0,4,Article 8,20.41,,1002.0,0.42,SydInvest,Stocks,Global
+Sydinvest Megatrends A DKK,DK0062382628,DKK,Aktier - Globale Large Cap Growth,Distributing,1.57,,5,Without classification,,,1086.0,,SydInvest,Stocks,Global
+Sydinvest Megatrends A DKK Akk,DK0062382891,DKK,Aktier - Globale Large Cap Growth,Accumulating,1.56,,5,Without classification,,,1052.0,,SydInvest,Stocks,Global
+Sydinvest Mellemlange Obl A DKK Akk,DK0060585156,DKK,Obligationer - DKK Indenlandske,Accumulating,0.38,4.0,2,Article 8,-0.19,-2.3,654.0,-0.65,SydInvest,Bonds,Denmark
+Sydinvest Mellemlange Obligationer A DKK,DK0060585073,DKK,Obligationer - DKK Indenlandske,Distributing,0.38,4.0,2,Article 8,-3.28,-7.87,2299.0,-0.66,SydInvest,Bonds,Denmark
+Sydinvest USA Value A DKK,DK0010270776,DKK,Aktier - USA Large Cap Value,Distributing,1.26,3.0,5,Article 8,4.78,28.58,226.0,0.42,SydInvest,Stocks,US
+Sydinvest Virksomhedsobl HY A DKK,DK0016098825,DKK,Obligationer - EUR Højrente,Distributing,1.1,3.0,3,Article 8,0.6,5.94,327.0,-0.16,SydInvest,Bonds,Europe
+Sydinvest Virksomhedsobl HY A DKK Akk,DK0060089415,DKK,Obligationer - EUR Højrente,Accumulating,1.09,3.0,3,Article 8,4.37,12.0,98.0,-0.17,SydInvest,Bonds,Europe
+Sydinvest Virksomhedsobl IG A DKK,DK0060409266,DKK,Obligationer - Globale Virksomheder EUR Valutasikret,Distributing,0.72,4.0,2,Article 8,-5.9,-8.98,277.0,-0.7,SydInvest,Bonds,Global
