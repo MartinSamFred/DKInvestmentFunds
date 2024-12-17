@@ -1,8 +1,6 @@
-## DKInvestmentFunds
-
 # About Dataset
 
-# DK Investment Funds
+## DK Investment Funds
 
 I created this dataset as I needed a bit of insight in the DK Investment funds universe. 
 
@@ -14,11 +12,11 @@ If you use the csv file: cleaned to some extent and translated from Danish to En
 
 Code in: DKInv.ipynb
 
-# Content
+## Content
 
 Each row in the dataset contains a Danish Investmest fund
 
-# “Clean” columns (csv file):
+### “Clean” columns (csv file):
 
 0 'fund_name' : the funds organial name
 1 'isin' : code of the fund
@@ -37,7 +35,7 @@ Each row in the dataset contains a Danish Investmest fund
 14 'asset_class': cleaned/added asset class split
 15 'geography: cleaned/added main investment geography
 
-# “Raw” columns (xlsx file):
+### “Raw” columns (xlsx file):
 
 0 'Navn': Name of the fund
 1 'Ticker': Ticker of the fund
@@ -76,15 +74,15 @@ Each row in the dataset contains a Danish Investmest fund
 34 'Information Ratio' : information ratio
 35 Tracking Error (%)' : tracking error
 
-# Uses
+## Uses
 Various analysis and visualization.
 Practice exercises etc.
 Uncleaned xlsx file is are great to practice cleaning, especially string cleaning. 
 
-# Disclaimer
+## Disclaimer
 The data and information in the data set provided here are intended to be used primarily for educational purposes only. I do not own any data, and all rights are reserved to the respective owners as outlined in “Acknowledgements/sources”. The accuracy of the dataset is not guaranteed accordingly any analysis and/or conclusions is solely at the user's own responsibly and accountability.
 
-# Acknowledgements/sources
+## Acknowledgements/sources
 All data is publicly available on:
 BankInvest: https://bankinvest.dk/ 
 C WorldWide: https://cww.dk/ 
