@@ -50,6 +50,8 @@ Each row in the dataset contains a Danish Investmest fund
 
 15 'geography: cleaned/added main investment geography
 
+
+
 ### “Raw” columns (xlsx file):
 
 0 'Navn': Name of the fund
