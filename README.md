@@ -134,27 +134,41 @@ Uncleaned xlsx file is are great to practice cleaning, especially string cleanin
 The data and information in the data set provided here are intended to be used primarily for educational purposes only. I do not own any data, and all rights are reserved to the respective owners as outlined in “Acknowledgements/sources”. The accuracy of the dataset is not guaranteed accordingly any analysis and/or conclusions is solely at the user's own responsibly and accountability.
 
 ## Acknowledgements/sources
+
 All data is publicly available on:
+
 BankInvest: https://bankinvest.dk/ 
+
 C WorldWide: https://cww.dk/ 
+
 Carnegie Invest: https://www.carnegie.dk/ 
+
 Danske Invest: https://www.danskeinvest.dk/w/show_pages.front?p_nId=75 
+
 Falcon Invest: https://falconinvest.dk/ 
+
 Fundamental Invest: https://fundamentalinvest.dk/
+
 IA Invest: https://iainvest.dk/ 
+
 Maj Invest: https://majinvest.dk/ 
+
 Multi Manager Invest: https://www.nordnet.dk/ 
+
 Nordea Invest: https://www.nordeafunds.com/da
+
 Nykredit Invest: https://www.nykreditinvest.dk/
+
 SGD Invest: https://www.nordeafunds.com/da
+
 SEB Invest: https://seb.dk/SEBinvest/
+
 Sparinvest: https://www.sparinvest.dk/
+
 Stockrate Asset Management: https://stockrate.dk/
+
 Sydinvest: https://www.sydinvest.dk/
+
 Wealth invest: https://wealthinvest.dk/
+
 Dataset picture / cover photo: insung yoon (https://unsplash.com/)
-
-
-
-
-
