@@ -19,59 +19,109 @@ Each row in the dataset contains a Danish Investmest fund
 ### “Clean” columns (csv file):
 
 0 'fund_name' : the funds organial name
+
 1 'isin' : code of the fund
+
 2 'currency' : fund trading currency / denomination 
+
 3 'category' : stock, bond, mix etc.
+
 4 'dividend' : dividend policy i.e. distributing or accumulating
+
 5 'ann_cost' : annual cost in %
+
 6 'rating_class' : rating of the fund
+
 7 'risk_class' :
+
 8 'sustainablity_class': sustainability category of the fund
+
 9 '3y_ann_perf': % change (3 years), some annualized though 
+
 10 '5y_ann_perf': % change (5 years) , some annualized though
+
 11 'AUM_DKK' : AUM mill. DKK (most of them!)
+
 12 'sharpe_ratio': sharpe ratio
+
 13 'provider': cleaned/added provider name
+
 14 'asset_class': cleaned/added asset class split
+
 15 'geography: cleaned/added main investment geography
 
 ### “Raw” columns (xlsx file):
 
 0 'Navn': Name of the fund
+
 1 'Ticker': Ticker of the fund
+
 2 'ISIN': ISIN code of the fund
+
 3 'Valuta': fund trading currency / denomination
+
 4 'Kategori': stock, bond, mix etc.
+
 5 'Udbyttepolitik': dividend policy i.e. distributing or accumulating 
+
 6 'Årlig omk. %: annual cost in %
+
 7 'Rating': rating of the fund
+
 8 'Risko': risk rating of the fund
+
 9 'Bæredygtighed': sustainability category of the fund
+
 10 'Belåningsgrad %': leverage (if any)
+
 11 'Fås i månedsopsparingen': Included in monthly saving/investment feature 
+
 12 'Antal ejere': number of ”shareholders”
+
 13 'I dag %' : % change today
+
 14 'I dag +/-' : price change today
+
 15 'Seneste': latest price 
+
 16 'Køb' : offer price
+
 17 'Sælg' : bid price
+
 18 'Spread %': spread in %
+
 19 'Høj' : price high
+
 20 'Lav' : price low
+
 21 'Omsætning': volume traded
+
 22 '1 d %': % change (day)
+
 23 '1 uge %' : % change (1 week)
+
 24 '1 måned %' : % change (1 month)
+
 25 '3 måneder %' : % change (3 months)
+
 26 'i år %' : % change (YTD)
+
 27 '1 år %' : % change (1 year)
+
 28 '3 år %' : % change (3 years)
+
 29 '5 år %' : % change (5 years)
+
 30 '10 år %'  : % change (10 years)
+
 31 'AUM(mio.kr.)': AUM mill. DKK (most of them!)
+
 32 'Standardafvigelse (%, 5 år)' : standard derivation
+
 33 'Sharpe_ratio' : sharpe ratio
+
 34 'Information Ratio' : information ratio
+
 35 Tracking Error (%)' : tracking error
 
 ## Uses
