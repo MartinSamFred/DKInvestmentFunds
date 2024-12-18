@@ -6,9 +6,9 @@ I created this dataset as I needed a bit of insight in the DK Investment funds u
 
 The dataset contains of 346 Danish investment funds with asset classes such as stock, bonds and mixed stock/bonds funds + a few alternatives and real estate funds. 
 
-If you use the xlsx file: You can run part of my code for a cleaner / translated version.
-
 If you use the csv file: cleaned to some extent and translated from Danish to English.
+
+If you use the xlsx file (sheet1): You can run part of my code for a cleaner / translated version.
 
 Code in: DKInv.ipynb
 
