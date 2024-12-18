@@ -18,7 +18,7 @@ Each row in the dataset contains a Danish Investmest fund
 
 ## “Clean” columns (csv file):
 
-0 'fund_name' : the funds organial name
+0 'fund_name' : the funds original name
 
 1 'isin' : code of the fund
 
