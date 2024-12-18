@@ -32,7 +32,7 @@ Each row in the dataset contains a Danish Investmest fund
 
 6 'rating_class' : rating of the fund
 
-7 'risk_class' :
+7 'risk_class' : risk classification of the fund
 
 8 'sustainablity_class': sustainability category of the fund
 
